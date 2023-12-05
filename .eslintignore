@@ -1,0 +1,6 @@
+**/
+cypress.config.js
+next.config.js
+data-service.js
+server.js
+user-service.js
