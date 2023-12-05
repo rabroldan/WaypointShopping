@@ -9,10 +9,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-<<<<<<< HEAD
      - name: Run ESlint
         run: npx eslint .
-=======
-      - name: Run ESlint
-        run: npx eslint .
->>>>>>> bf66b1e1e0c7173588750d0a248a8b9549cf94b4
